@@ -1,0 +1,49 @@
+    body{
+        margin: 0;
+      
+    }
+
+        .mysite{
+          
+            padding:10px;
+            height:30px;  
+        background-color: blue;
+       
+        }
+        #my{
+            color: rgb(252, 247, 247);
+            font-size: larger;
+            float:left
+            
+
+        }
+        #site{
+            color: rgb(4, 181, 252);
+            font-size: larger;
+            float: left;
+        }
+        #login{
+            float:right;
+            color: darkgrey;
+            font-size: small;
+            margin-right: 10px;
+
+        }
+        #Sign{
+            float:right;
+            color: darkgrey;
+            font-size: small;
+            margin-right: 10px;
+    
+        }
+        .content{
+        padding: 10px;
+        height:10px;
+        background-color: white;
+
+        }
+        #home{
+            color:darkgray (155, 149, 149);
+
+        }
+        
